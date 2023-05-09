@@ -1,2 +1,2 @@
 # Netflix-EDA
-EDA about Netflix platform
+Exploratory Data Analysis about some features in Netflix platform.
